@@ -1,13 +1,14 @@
 # CS340
 
 CS 340 Grazioso Salvare README
-About the Project
+
+About the Project:
 Grazioso Salvare is an international rescue-animal training company. They can identify dogs that would be good for search and rescue training. They paired with five animal shelters in the region to acquire data from those shelters. 
 
-Functionality
+Functionality:
 This project visualizes the data of an animal shelter. It allows users to search using filters that fit their desired criteria. Some of these filters include rescue types, preferred breed and preferred age.
 
-Requirements
+Requirements:
 •	Python
 •	Jupyter Notebook
 •	MongoDB
